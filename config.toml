@@ -1,0 +1,35 @@
+baseURL = "https://castelijns-dataconsultancy.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Castelijns Dataconsultancy"
+theme = "anatole"
+
+[params]
+customCss = ["css/markupHighlight.css", "css/style.css"]
+favicon = "favicons/"
+
+profilePicture = "images/profile.jpg"
+title = "Thomas Castelijns"
+description = "Freelance Data Scientist / Engineer"
+
+author = "Thomas Castelijns"
+copyright = "2020-2021"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/thomas-castelijns/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/TCACastelijns/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:thomascastelijns@live.nl"
+
+
