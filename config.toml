@@ -1,7 +1,7 @@
-baseURL = "http://castelijns-dataconsulting.nl"
+baseURL = "https://castelijns-dataconsulting.nl"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Castelijns Dataconsultancy"
+title = "Castelijns Dataconsulting"
 theme = "anatole"
 
 [params]
