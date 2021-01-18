@@ -6,7 +6,6 @@ theme = "anatole"
 
 [params]
 customCss = ["css/markupHighlight.css", "css/style.css"]
-favicon = "favicons/"
 
 profilePicture = "images/profile.jpg"
 title = "Thomas Castelijns"
