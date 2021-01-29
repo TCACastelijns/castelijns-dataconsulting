@@ -1,34 +1,46 @@
-baseURL = "https://castelijns-dataconsulting.nl"
-languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Castelijns Dataconsulting"
-theme = "anatole"
+baseURL = "https://tca-dataconsulting.nl"
+languageCode = "en-us"
+title = "TCA data consulting"
+googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-customCss = ["css/markupHighlight.css", "css/style.css"]
+    description = "Portfolio of Thomas, Senior Data Scientist | Engineer"
+    favicon = "tca.png"
+    logo = "tca.png"
+    email = "thomascastelijns@live.nl"
+    linkedin = "https://www.linkedin.com/in/thomas-castelijns"
+    github = "TCACastelijns"
+    main_color="#000080"
 
-profilePicture = "images/profile.jpg"
-title = "Thomas Castelijns"
-description = "Freelance Data Scientist / Engineer"
+[params.nav]
+    quote='"The value of the data lies in the using of it." '
+    enable = true
 
-author = "Thomas Castelijns"
-copyright = "2020-2021"
+[params.hero]
+    enable = true
+    avatar = "profile.jpg"
+    title = "Thomas Castelijns"
+    subtitle = "Freelance Data Scientist & Engineer"
+    hero_right = ["# About",
+        "## Technology, Consultancy & Analytics",
+        "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valueble insights. It is my strength to help companies and organisations in becoming more data driven and captialize on their data. The value is not the data itself, but the value lies in the using of it.",
+        "I am proficient in data preprocessing, visualization, predictive modeling and getting these into your ICT infrastructure.",
+        "Do you want to reach the next level in your data maturity? Please reach out to me by [e-mail](mailto:thomascastelijns@live.nl) or [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
 
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/thomas-castelijns/"
+[params.process]
+    enable = true
+    title = "Way of Working "
+    subtitle = "Services"
 
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/TCACastelijns/"
+[params.case_studies]
+    enable = true
+    title = "Project portfolio"
+    subtitle = "Selected Works"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:thomascastelijns@live.nl"
+[params.contact]
+    enable = true
+    title = "Contact "
+    subtitle = "Contact details"
 
-
+[params.footer]
+    enable = true
