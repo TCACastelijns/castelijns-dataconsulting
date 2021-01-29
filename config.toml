@@ -1,4 +1,4 @@
-baseURL = "https://castelijns-dataconsulting.nl"
+baseURL = "https://castelijns-dataconsulting.nl/"
 languageCode = "en-us"
 title = "TCA data consulting"
 googleAnalytics = "UA-XXXXXXXX-Y"
