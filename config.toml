@@ -1,12 +1,13 @@
 baseURL = "https://castelijns-dataconsulting.nl/"
 languageCode = "en-us"
-title = "TCA data consulting"
+title = "TCA data solutions"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
     description = "Portfolio of Thomas, Senior Data Scientist | Engineer"
-    favicon = "tca.png"
-    logo = "tca.png"
+    favicon = "tca1.png"
+    logo = "tca1.png"
+    logo_nav = "tca2.png"
     email = "thomascastelijns@live.nl"
     linkedin = "https://www.linkedin.com/in/thomas-castelijns"
     github = "TCACastelijns"
