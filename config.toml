@@ -1,14 +1,14 @@
 baseURL = "https://tca-datasolutions.nl/"
 languageCode = "en-us"
-title = "TCA data solutions"
+title = "TCA data solutions - The value of the data lies in the using of it."
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    description = "Portfolio of Thomas, Senior Data Scientist | Engineer"
+    description = "Portfolio of Thomas, Senior Data Scientist | Machine Learning Engineer"
     favicon = "tca1.png"
     logo = "tca1.png"
     logo_nav = "tca2.png"
-    email = "thomascastelijns@live.nl"
+    email = "info@tca-datasolutions.nl"
     linkedin = "https://www.linkedin.com/in/thomas-castelijns"
     github = "TCACastelijns"
     main_color="#000080"
@@ -21,7 +21,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "profile.jpg"
     title = "Thomas Castelijns"
-    subtitle = "Freelance Data Scientist & Engineer"
+    subtitle = "Freelance Data Scientist & Machine Learning Engineer"
     hero_right = ["# About",
         "## Technology, Consultancy & Analytics",
         "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valueble insights. It is my strength to help companies and organisations in becoming more data driven and captialize on their data. The value is not the data itself, but the value lies in the using of it.",
