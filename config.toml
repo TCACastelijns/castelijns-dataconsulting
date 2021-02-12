@@ -1,7 +1,6 @@
-baseURL = "https://tca-datasolutions.nl/"
 languageCode = "en-us"
-title = "TCA data solutions - The value of the data lies in the using of it."
 googleAnalytics = "UA-XXXXXXXX-Y"
+defaultContentLanguage = "nl"
 
 [params]
     description = "Portfolio of Thomas, Senior Data Scientist | Machine Learning Engineer"
@@ -45,3 +44,19 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.footer]
     enable = true
+
+
+
+[languages]
+    [languages.en]
+        title = "TCA data solutions - The value of the data lies in the using of it"
+        baseURL = "https://tca-datasolutions.com"
+        weight = 2
+    [languages.nl]
+        title = "TCA data solutions - De waarde van data zit hem in het gebruik ervan"
+        baseURL = "https://tca-datasolutions.nl"
+        weight = 1
+        [languages.nl.params.case_studies]
+            enable=true
+            title = "HAA"
+            subtitle = "Mijn werk"
