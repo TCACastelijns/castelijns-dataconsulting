@@ -4,8 +4,9 @@
             <h1 class="title">{{ .Site.Params.Process.Title }}</h1>
             <h2 class="subtitle">{{ .Site.Params.Process.Subtitle }}</h2>
         </div>
+        {{ if eq .Site.Language.LanguageName "English"}}
         <div class="process-wrapper">
-            {{ range $element := sort .Site.Data.process "weight" }}
+            {{ range $element := sort .Site.Data.process_en "weight" }}
             <div class="process-item">
                 <figure class="item-header">
                     <img src="svg/{{ $element.icon }}">
@@ -15,5 +16,19 @@
             </div>
             {{ end }}
         </div>
+        {{ end }}
+        {{ if eq .Site.Language.LanguageName "Nederlands"}}
+        <div class="process-wrapper">
+            {{ range $element := sort .Site.Data.process_nl "weight" }}
+            <div class="process-item">
+                <figure class="item-header">
+                    <img src="svg/{{ $element.icon }}">
+                    <h3 style="text-align:-webkit-right;">{{ $element.title }}</h3>
+                </figure>
+                <p>{{ $element.description }}</p>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
     </div>
 </section>

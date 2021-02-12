@@ -63,7 +63,9 @@
                 {{ end }}
             </div>
         </div>
+
         <div class="hero-right">
+            <h1>{{ .Site.Params.hero.right_title }}</h1>
             {{ range $paragraph := .Site.Params.Hero.hero_right }}
                 <p>{{ $paragraph | markdownify }}</p>
             {{ end }}

@@ -3,27 +3,28 @@ weight: 3
 title: "Big Data solutions | Thomas Castelijns"
 nav_heading: "Big Data Case study"
 thumbnail: "bigdata.jpg"
-case_short_title: "Big Data solutions"
-case_title: "Big Data solutions"
-case_subtitle: "using the power of the cloud"
-case_description: "Developing a big data solution including a dashboard for analyzing high volumes of noisy sensory data."
+case_short_title: "Big Data oplossingen"
+case_title: "Big Data oplossingen"
+case_subtitle: "met the mogelijkheden van de cloud"
+case_description: "Ontwikkeling van een big data oplossing inclusief een dashboard for de analyse van grote volumes sensor data."
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
 
-# Description
-The main business question was to get insights in the performance of 35.000 sensors in the electricity grid, generating TBs of time series data.
+# Beschrijving
+De voornaamste vraag was om inzicht te krijgen in de prestatie van 35.000 sensors in het electriciteit net. 
+Deze sensoren genereren elke dag miljoenen rijen aan event en tijdreeks data.
 
-The challenge was to:
+De uitdaging was lag in het:
 
-- Extract, Load and Transform (ETL) the sensory data into robust and scalable pipelines.
-- Schedule the ETL jobs from a centralized server.
-- Communicate the right descriptive statistics to the stakeholders to facilitate data driven decisions.
+- Ophalen, Transformeren and laden (ETL) van de sensor data in robuuste en schaalbare datapijplijn.
+- Inplannen van de ETL processen vanuit een gecentraliseerde server.
+- Communiceren van de juiste beschrijvende statistieken naar de stakeholders om data gedreven beslissingen te faciliteren.
 
-The end results are continuously monitored in a hosted dashboard that is refreshed automatically on a daily basis. 
+De eind resultaten worden continue gemonitord in een live dashboard dat automatisch en dagelijks vernieuwd wordt. 
 
-## Responsibilities
-Project lead and stakeholder management. 
+## Verantwoordelijkheden
+Team lead en stakeholder management. 
 
 ## Tools
 Python, PySpark SQL, AWS EMR, Apache Airflow, Docker, Gitlab CI/CD, PowerBI

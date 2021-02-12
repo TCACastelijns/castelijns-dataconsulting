@@ -4,6 +4,11 @@
     </a>
     <h4 class="quote-navigation">{{ .Site.Params.Nav.quote }}</h4>
     <div class="sub-navigation">
-        <a href="{{ .Site.BaseURL }}" class="main-navigation-link" data-scroll-goto="2">Case Studies</a>
+        {{ $baseUrl := .Site.BaseURL }}
+        <a href="{{ .URL }}" class="main-navigation-link">{{.Site.Params.case_studies.Top}}</a>
+        <a href="{{ .Site.BaseURL }}" class="main-navigation-link" data-scroll-goto="2">{{.Site.Params.case_studies.Title}}</a>
     </div>
 </nav>
+
+
+
