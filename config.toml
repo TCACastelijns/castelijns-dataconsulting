@@ -72,8 +72,8 @@ defaultContentLanguage = "nl"
         right_title = "Over mij"
         hero_right = [
             "## Technology, Consultancy & Analytics",
-            "I heb 3+ jaar ervaring in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn kracht om bedrijven en organisaties te helpen om maximaal te profiteren van hun data. Want de waarde is niet de data zelf, maar ligt in het gebruik ervan!",
-            "Ik ben bekwaam in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te bedden in bestaande en nieuwe ICT infrastructuren.",
+            "Ik heb ruim 3 jaar ervaring in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn kracht om bedrijven en organisaties te helpen om maximaal te profiteren van hun data. Want de waarde is niet de data zelf, maar ligt in het gebruik ervan!",
+            "Ik ben bekwaam in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te zetten in bestaande en nieuwe ICT infrastructuren.",
             "Dus wil jij de volgende stap zetten in jouw data volwassenheid? Neem contact met me op per [e-mail](mailto:thomascastelijns@live.nl) of [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
         [languages.nl.params.process]
             enable = true

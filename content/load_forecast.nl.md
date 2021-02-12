@@ -23,7 +23,7 @@ In deze gebieden wordt flexibele belasting aangeboden om pieken te managen.
 
 In dit project heb ik gewerkt aan:
 
-- Ophalen, Transformeren and laden (ETL) van tijdreeks data van de sensoren.
+- Ophalen, Transformeren en Laden (ETL) van tijdreeks data van de sensoren.
 - Combineren van deze informatie met weersvoorspellingen.
 - Engineeren van variabelen op basis van de tijd.
 - Voorspellen de elektriciteit belasting o.b.v. een getraind machine learning model.

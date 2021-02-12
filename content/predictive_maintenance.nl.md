@@ -12,20 +12,20 @@ draft: false
 ---
 
 # Beschrijving
-Graafschades zijn een van de grootste kostposten voor nutsbedrijve omdat het leidt tot:
+Graafschades zijn een van de grootste kosten posten voor nutsbedrijven, omdat het leidt tot:
 
 - Stroom onderbrekingen
-- Gas lekken en de bijbehorende veiligheids-issues
+- Gas lekken en de bijbehorende veiligheidsissues
 
 Het herstelen van deze schades is tijdrovend en leidt tot hoge kosten voor de maatschappij.
 Daardoor, is het gewenst om deze schades te voorkomen.
 
 In dit project heb ik gewerkt aan:
 
-- Ophalen, Transformeren and laden (ETL) van de  data zoals tijd, plaats, het graaf gebied en de soort werkzaamheden.
+- Ophalen, Transformeren en Laden (ETL) van de data zoals tijd, plaats, het graaf gebied en de soort werkzaamheden.
 - Combineren van deze informatie met interne asset data op basis van geometrische koppelingen.
-- Engineren van variabelen zoals de complexiteit van het graafgebied, het aantal assets in het gebied en de verantwoordelijke grond roerder.
-- Voorspellen van de kans op graafschades o.b.v. een getrained machine learning model.
+- Engineeren van variabelen zoals de complexiteit van het graafgebied, het aantal assets in het gebied en de verantwoordelijke grond roerder.
+- Voorspellen van de kans op graafschades o.b.v. een getraind machine learning model.
 
 Het eind resultaat is een tool die automatisch, op dagelijkse basis voorspellingen genereert voor het preventie team.
 

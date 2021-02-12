@@ -12,12 +12,12 @@ draft: false
 ---
 
 # Beschrijving
-De voornaamste vraag was om inzicht te krijgen in de prestatie van 35.000 sensors in het electriciteit net. 
+De voornaamste vraag was om inzicht te krijgen in de prestatie van 35.000 sensors in het elektriciteit net. 
 Deze sensoren genereren elke dag miljoenen rijen aan event en tijdreeks data.
 
 De uitdaging was lag in het:
 
-- Ophalen, Transformeren and laden (ETL) van de sensor data in robuuste en schaalbare datapijplijn.
+- Ophalen, Transformeren en Laden (ETL) van de sensor data in robuuste en schaalbare datapijplijn.
 - Inplannen van de ETL processen vanuit een gecentraliseerde server.
 - Communiceren van de juiste beschrijvende statistieken naar de stakeholders om data gedreven beslissingen te faciliteren.
 
