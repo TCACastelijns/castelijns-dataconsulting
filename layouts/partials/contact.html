@@ -3,6 +3,16 @@
         <div class="header">
             <h1 class="title">{{ .Site.Params.Contact.Title }}</h1>
             <h2 class="subtitle">{{ .Site.Params.Contact.Subtitle }}</h2>
+            {{ if eq .Site.Language.LanguageName "Nederlands"}}
+            <p>
+                Thomas Castelijns <br>
+                info@tca-datasolutions.nl <br>
+                <br>
+                Tilburg, Nederland <br>
+                KvK: TBD <br>
+            </p>
+            {{ end }}
+            {{ if eq .Site.Language.LanguageName "English"}}
             <p>
                 Thomas Castelijns <br>
                 info@tca-datasolutions.nl <br>
@@ -10,6 +20,7 @@
                 Tilburg, the Netherlands <br>
                 KvK: TBD <br>
             </p>
+            {{ end }}
         </div>
     </div>
 </section>
