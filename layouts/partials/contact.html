@@ -3,26 +3,19 @@
         <div class="header">
             <h1 class="title">{{ .Site.Params.Contact.Title }}</h1>
             <h2 class="subtitle">{{ .Site.Params.Contact.Subtitle }}</h2>
-            {{ if eq .Site.Language.LanguageName "Nederlands"}}
             <p>
                 Thomas Castelijns <br>
                 info@tca-datasolutions.nl <br>
-                English: <a href="https://www.tca-datasolutions.com">www.tca-datasolutions.com</a> <br>
-                <br>
-                Tilburg, Nederland <br>
-                KvK: TBD <br>
-            </p>
-            {{ end }}
-            {{ if eq .Site.Language.LanguageName "English"}}
-            <p>
-                Thomas Castelijns <br>
-                info@tca-datasolutions.nl <br>
+                {{ if eq .Site.Language.LanguageName "English"}}
+                Engels: <a href="https://www.tca-datasolutions.com">www.tca-datasolutions.com</a> <br>
+                Tilburg, Netherlands <br>
+                {{ end }}
+                {{ if eq .Site.Language.LanguageName "Nederlands"}}
                 Dutch: <a href="https://www.tca-datasolutions.nl">www.tca-datasolutions.nl</a><br>
-                <br>
-                Tilburg, the Netherlands <br>
-                KvK: TBD <br>
+                Tilburg, Nederland <br>
+                {{ end }}
+                KvK: 82015724 <br>
             </p>
-            {{ end }}
         </div>
     </div>
 </section>

@@ -5,7 +5,7 @@ nav_heading: "Big Data Case study"
 thumbnail: "bigdata.jpg"
 case_short_title: "Big Data solutions"
 case_title: "Big Data solutions"
-case_subtitle: "using the power of the cloud"
+case_subtitle: "Cloud computing"
 case_description: "Developing a big data solution including a dashboard for analyzing high volumes of noisy sensory data."
 case_feature_img: "congestions2.jpg"
 draft: false
@@ -26,4 +26,4 @@ The end results are continuously monitored in a hosted dashboard that is refresh
 Project lead and stakeholder management. 
 
 ## Tools
-Python, PySpark SQL, AWS EMR, Apache Airflow, Docker, Gitlab CI/CD, PowerBI
+Python, PySpark SQL, AWS EMR, Apache Airflow, Docker, Gitlab CI/CD, PowerBI.

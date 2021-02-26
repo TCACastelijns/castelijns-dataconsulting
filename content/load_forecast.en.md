@@ -37,4 +37,4 @@ These predictions are used by decision makers to offer flexible load in
 Project lead and stakeholder management.
 
 ## Tools
-Python, Pandas, Snowflake, scikit-learn, MLflow, Docker, Gitlab CI/CD
+Python, Pandas, Snowflake, scikit-learn, MLflow, Docker, Gitlab CI/CD.
