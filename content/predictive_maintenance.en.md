@@ -34,4 +34,4 @@ The end result is an automatically scheduled pipeline, on a daily basis that gen
 Project lead and stakeholder management.
 
 ## Tools
-Python, Pandas, scikit-learn, XGBoost, Oracle Geometries, AWS ECS, Docker, Gitlab CI/CD.
+Python, Pandas, scikit-learn, XGBoost, Oracle Geometries, AWS ECS, Docker, Gitlab CI/CD, Airflow.

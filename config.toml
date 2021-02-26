@@ -30,7 +30,7 @@ defaultContentLanguage = "nl"
             right_title = "About me"
             hero_right = [
                 "## Technology, Consultancy & Analytics",
-                "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valueble insights. It is my strength to help companies and organisations in becoming more data driven and captialize on their data. The value is not the data itself, but the value lies in the using of it.",
+                "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valuable insights. It is my passion to help companies and organisations in becoming more data driven and capitalize on their data: **The value is not the data itself, but the value lies in the using of it.**",
                 "I am proficient in data preprocessing, visualization, predictive modeling and getting these into your ICT infrastructure.",
                 "Do you want to reach the next level in your data maturity? Please reach out to me by [e-mail](mailto:thomascastelijns@live.nl) or [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
 
@@ -72,8 +72,8 @@ defaultContentLanguage = "nl"
         right_title = "Over mij"
         hero_right = [
             "## Technology, Consultancy & Analytics",
-            "Ik heb ruim 3 jaar ervaring in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn kracht om bedrijven en organisaties te helpen om maximaal te profiteren van hun data. Want de waarde is niet de data zelf, maar ligt in het gebruik ervan!",
-            "Ik ben bekwaam in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te zetten in bestaande en nieuwe ICT infrastructuren.",
+            "Ik heb ruim 3 jaar ervaring in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn passie om bedrijven en organisaties te helpen om maximaal te kunnen profiteren van hun data: **De waarde is niet de data zelf, maar ligt in het gebruik ervan!**",
+            "Ik ben ervaren in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te zetten in bestaande en nieuwe ICT infrastructuren.",
             "Dus wil jij de volgende stap zetten in jouw data volwassenheid? Neem contact met me op per [e-mail](mailto:thomascastelijns@live.nl) of [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
         [languages.nl.params.process]
             enable = true

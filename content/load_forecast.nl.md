@@ -6,7 +6,7 @@ thumbnail: "load_forecast.jpg"
 case_short_title: "Load Forecast"
 case_title: "Load Forecast"
 case_subtitle: "Congestie Management"
-case_description: "Voorspellen van elektriciteit belasting van congestie punten in het net door meetdata te combineren met weersvoorspellingen."
+case_description: "Voorspellen van elektriciteit belasting in het net door meetdata te combineren met weersvoorspellingen."
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
@@ -21,7 +21,7 @@ Het voorkomen van capaciteit problemen in het net is een van de grootste uitdagi
 Daarom is er een grote behoefte aan netbelasting voorspellingen om potentiële congestie gebieden te selecteren.
 In deze gebieden wordt flexibele belasting aangeboden om pieken te managen. 
 
-In dit project heb ik gewerkt aan:
+In dit project heb ik gewerkt aan het:
 
 - Ophalen, Transformeren en Laden (ETL) van tijdreeks data van de sensoren.
 - Combineren van deze informatie met weersvoorspellingen.
@@ -34,4 +34,4 @@ Ook het monitoren van experimenten en model performance was onderdeel van dit pr
 Team lead en stakeholder management.
 
 ## Tools
-Python, Pandas, Snowflake, scikit-learn, MLflow, Docker, Gitlab CI/CD
+Python, Pandas, Snowflake, scikit-learn, MLflow, Docker, Gitlab CI/CD.
