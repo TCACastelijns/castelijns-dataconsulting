@@ -6,13 +6,13 @@
             <p>
                 Thomas Castelijns <br>
                 info@tca-datasolutions.nl <br>
-                {{ if eq .Site.Language.LanguageName "English"}}
-                Engels: <a href="https://www.tca-datasolutions.com">www.tca-datasolutions.com</a> <br>
-                Tilburg, Netherlands <br>
-                {{ end }}
                 {{ if eq .Site.Language.LanguageName "Nederlands"}}
-                Dutch: <a href="https://www.tca-datasolutions.nl">www.tca-datasolutions.nl</a><br>
+                Engels: <a href="https://www.tca-datasolutions.com">www.tca-datasolutions.com</a> <br>
                 Tilburg, Nederland <br>
+                {{ end }}
+                {{ if eq .Site.Language.LanguageName "English"}}
+                Dutch: <a href="https://www.tca-datasolutions.nl">www.tca-datasolutions.nl</a><br>
+                Tilburg, Netherlands <br>
                 {{ end }}
                 KvK: 82015724 <br>
             </p>
