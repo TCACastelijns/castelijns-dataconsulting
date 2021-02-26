@@ -14,12 +14,12 @@ defaultContentLanguage = "nl"
 
 [languages]
     [languages.en]
-        title = "TCA data solutions - The value of the data lies in the using of it"
+        title = "TCA data solutions - The value is not the data itself, but lies in their use"
         baseURL = "https://tca-datasolutions.com/"
         languageName='English'
         weight = 2
         [languages.en.params.nav]
-            quote='"The value of the data lies in the using of it." '
+            quote='"The value is not the data itself, but lies in their use." '
             enable = true
 
         [languages.en.params.hero]
@@ -30,7 +30,7 @@ defaultContentLanguage = "nl"
             right_title = "About me"
             hero_right = [
                 "## Technology, Consultancy & Analytics",
-                "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valuable insights. It is my passion to help companies and organisations in becoming more data driven and capitalize on their data: **The value is not the data itself, but the value lies in the using of it.**",
+                "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valuable insights. It is my passion to help companies and organisations in becoming more data driven and capitalize on their data: **The value is not the data itself, but lies in their use.**",
                 "I am proficient in data preprocessing, visualization, predictive modeling and getting these into your ICT infrastructure.",
                 "Do you want to reach the next level in your data maturity? Please reach out to me by [e-mail](mailto:thomascastelijns@live.nl) or [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
 
