@@ -10,7 +10,7 @@ defaultContentLanguage = "nl"
     email = "info@tca-datasolutions.nl"
     linkedin = "https://www.linkedin.com/in/thomas-castelijns"
     github = "TCACastelijns"
-    main_color="#000080"
+    main_color="#061a60"
 
 [languages]
     [languages.en]
