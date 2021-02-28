@@ -24,7 +24,7 @@ defaultContentLanguage = "nl"
 
         [languages.en.params.hero]
             enable = true
-            avatar = "profile.jpg"
+            avatar = "profile4.jpg"
             title = "Thomas Castelijns"
             subtitle = "Freelance Data Scientist & Machine Learning Engineer"
             right_title = "About me"
@@ -66,7 +66,7 @@ defaultContentLanguage = "nl"
             enable = true
     [languages.nl.params.hero]
         enable = true
-        avatar = "profile.jpg"
+        avatar = "profile4.jpg"
         title = "Thomas Castelijns"
         subtitle = "Freelance Data Scientist & Machine Learning Engineer"
         right_title = "Over mij"
