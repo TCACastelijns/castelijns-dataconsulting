@@ -4,7 +4,7 @@
     </a>
     <div class="sub-navigation">
         <a href="#" class="main-navigation-link" id="about" data-scroll-goto="0">{{ .Site.Params.hero.right_title }}</a>
-        
+
         {{ if .Site.Params.process.enable }}
         <a href="#" class="main-navigation-link" data-scroll-goto="1">{{ .Site.Params.process.title }}</a>
         {{ end }}
@@ -14,7 +14,14 @@
         {{ end }}
 
         {{ if .Site.Params.contact.enable }}
-        <a href="#" class="main-navigation-link" data-scroll-goto="3">{{ .Site.Params.contact.title }}</a>
+        <a href="#" class="main-navigation-link" data-scroll-goto="4">{{ .Site.Params.contact.title }}</a>
+        {{ end }}
+
+        {{ if eq .Site.Language.LanguageName "Nederlands"}}
+        <a href="//tca-datasolutions.com" class="main-navigation-link">{{ .Site.Params.changeLanguage }}</a>
+        {{ end }}
+        {{ if eq .Site.Language.LanguageName "English"}}
+        <a href="//tca-datasolutions.nl" class="main-navigation-link">{{ .Site.Params.changeLanguage }}</a>
         {{ end }}
     </div>
 </nav>

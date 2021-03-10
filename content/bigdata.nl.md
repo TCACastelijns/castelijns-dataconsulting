@@ -2,7 +2,7 @@
 weight: 3
 title: "Big Data solutions | Thomas Castelijns"
 nav_heading: "Big Data Case study"
-thumbnail: "bigdata.jpg"
+thumbnail: "bigdata.jpeg"
 case_short_title: "Big Data oplossingen"
 case_title: "Big Data oplossingen"
 case_subtitle: "Cloud computing"
@@ -10,6 +10,8 @@ case_description: "Ontwikkeling van een big data oplossing inclusief een dashboa
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
+
+![](/img/bigdata.jpeg)
 
 # Beschrijving
 De voornaamste vraag was om inzicht te krijgen in de prestatie van 35.000 sensors in het elektriciteit net. 

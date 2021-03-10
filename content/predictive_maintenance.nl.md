@@ -11,6 +11,8 @@ case_feature_img: "predictive_maintenance.png"
 draft: false
 ---
 
+![](/img/predictive_maintenance.png)
+
 # Beschrijving
 Graafschades zijn een van de grootste kosten posten voor Nederlandse nutsbedrijven, omdat het leidt tot:
 

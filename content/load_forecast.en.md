@@ -2,14 +2,16 @@
 weight: 1
 title: "Load Forecasting | Thomas Castelijns"
 nav_heading: "Forcasting Electricity Demand Case Study"
-thumbnail: "load_forecast.jpg"
-case_short_title: "Load Forecast"
-case_title: "Load Forecast"
+thumbnail: "load_forecast.jpeg"
+case_short_title: "Load forecasting"
+case_title: "Load forecasting"
 case_subtitle: "Congestion Management"
 case_description: "Forecasting electricity load of congestion points in the electricity grid by combining data from sensors and weather forecasts."
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
+
+![](/img/load_forecast.jpeg)
 
 # Description
 Within the current society we are used to and dependent on a reliable and affordably energy supply. Also, we see an increase of:
