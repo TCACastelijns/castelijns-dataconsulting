@@ -6,6 +6,7 @@ thumbnail: "ddw.jpeg"
 case_short_title: "Talks and publications"
 case_title: "Talks and Publications"
 case_feature_img: "ddw.jpeg"
+case_description: "Recently, I have been invited to speak about Data Science developments. I also published scientific papers about my work."
 draft: false
 ---
 
