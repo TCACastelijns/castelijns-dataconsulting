@@ -7,11 +7,11 @@ defaultContentLanguage = "nl"
     description = "Portfolio of Thomas, Senior Data Scientist | Machine Learning Engineer"
     favicon = "tca-logo.png"
     logo = "tca-logo.png"
-    logo_nav = "tca-logo-nav.png"
+    logo_nav = "tca-logo.png"
     email = "info@tca-datasolutions.nl"
     linkedin = "https://www.linkedin.com/in/thomas-castelijns"
     github = "TCACastelijns"
-    main_color="#0b5394"
+    main_color="#7BB1C1"
 
 [languages]
     [languages.en]
