@@ -2,21 +2,23 @@ languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXX-Y"
 defaultContentLanguage = "nl"
 
+
 [params]
     description = "Portfolio of Thomas, Senior Data Scientist | Machine Learning Engineer"
-    favicon = "tca1.png"
-    logo = "tca1.png"
-    logo_nav = "tca2.png"
+    favicon = "tca-logo.png"
+    logo = "tca-logo.png"
+    logo_nav = "tca-logo.png"
     email = "info@tca-datasolutions.nl"
     linkedin = "https://www.linkedin.com/in/thomas-castelijns"
     github = "TCACastelijns"
-    main_color="#061a60"
+    main_color="#7BB1C1"
 
 [languages]
     [languages.en]
         title = "TCA data solutions - The value is not the data itself, but lies in their use"
         baseURL = "https://tca-datasolutions.com/"
         languageName='English'
+        changelanguage='NL'
         weight = 2
         [languages.en.params.nav]
             quote='"The value is not the data itself, but lies in their use." '
@@ -24,13 +26,14 @@ defaultContentLanguage = "nl"
 
         [languages.en.params.hero]
             enable = true
-            avatar = "profile4.jpg"
+            avatar = "profile.jpg"
             title = "Thomas Castelijns"
-            subtitle = "Freelance Data Scientist & Machine Learning Engineer"
+            subtitle1 = "Freelance Data Scientist &"
+            subtitle2 = "Machine Learning Engineer"
             right_title = "About me"
             hero_right = [
                 "## Technology, Consultancy & Analytics",
-                "I have 3+ years experience in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valuable insights. It is my passion to help companies and organisations in becoming more data driven and capitalize on their data: **The value is not the data itself, but lies in their use.**",
+                "I have 7+ years relevant work experience of which 3 years in leading a Data Science Development and Operations team. From this I know how hard it can be to translate your business data into valuable insights. It is my passion to help companies and organisations in becoming more data driven and capitalize on their data: **The value is not the data itself, but lies in their use.**",
                 "I am proficient in data preprocessing, visualization, predictive modeling and getting these into your ICT infrastructure.",
                 "Do you want to reach the next level in your data maturity? Please reach out to me by [e-mail](mailto:thomascastelijns@live.nl) or [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
 
@@ -45,8 +48,6 @@ defaultContentLanguage = "nl"
             subtitle = "Selected Works"
             read_more = "Read more"
             top = "Top page"
-
-
         [languages.en.params.contact]
             enable = true
             title = "Contact "
@@ -60,21 +61,24 @@ defaultContentLanguage = "nl"
         title = "TCA data solutions - De waarde van data zit hem in het gebruik ervan"
         baseURL = "https://tca-datasolutions.nl/"
         languageName='Nederlands'
+        changelanguage='EN'
         weight = 1
-    [languages.nl.params.nav]
-            quote='"De waarde van de data ligt in het gebruik ervan." '
+
+        [languages.nl.params.nav]
+                quote='"De waarde van de data ligt in het gebruik ervan." '
+                enable = true
+        [languages.nl.params.hero]
             enable = true
-    [languages.nl.params.hero]
-        enable = true
-        avatar = "profile4.jpg"
-        title = "Thomas Castelijns"
-        subtitle = "Freelance Data Scientist & Machine Learning Engineer"
-        right_title = "Over mij"
-        hero_right = [
-            "## Technology, Consultancy & Analytics",
-            "Ik heb ruim 3 jaar ervaring in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn passie om bedrijven en organisaties te helpen om maximaal te kunnen profiteren van hun data: **De waarde is niet de data zelf, maar ligt in het gebruik ervan!**",
-            "Ik ben ervaren in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te zetten in bestaande en nieuwe ICT infrastructuren.",
-            "Dus wil jij de volgende stap zetten in jouw data volwassenheid? Neem contact met me op per [e-mail](mailto:thomascastelijns@live.nl) of [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
+            avatar = "profile.jpg"
+            title = "Thomas Castelijns"
+            subtitle1 = "Freelance Data Scientist &"
+            subtitle2 = "Machine Learning Engineer"
+            right_title = "Over mij"
+            hero_right = [
+                "## Technology, Consultancy & Analytics",
+                "Ik heb ruim 7 jaar relevante werkervaring waarvan 3 jaar in het leiden van een Data Science Development en Operations team. Vanuit deze ervaring weet ik hoe lastig en complex het kan zijn om jouw data om te zetten in waardevolle inzichten. Het is mijn passie om bedrijven en organisaties te helpen om maximaal te kunnen profiteren van hun data: **De waarde is niet de data zelf, maar ligt in het gebruik ervan!**",
+                "Ik ben ervaren in data preparatie, visualizatie, modelleren met voorspellende algoritmen en deze in te zetten in bestaande en nieuwe ICT infrastructuren.",
+                "Dus wil jij de volgende stap zetten in jouw data volwassenheid? Neem contact met me op per [e-mail](mailto:thomascastelijns@live.nl) of [LinkedIn](https://www.linkedin.com/in/thomas-castelijns)."]
         [languages.nl.params.process]
             enable = true
             title = "Werkwijze "

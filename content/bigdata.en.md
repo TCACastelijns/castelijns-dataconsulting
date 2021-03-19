@@ -2,7 +2,7 @@
 weight: 3
 title: "Big Data solutions | Thomas Castelijns"
 nav_heading: "Big Data Case study"
-thumbnail: "bigdata.jpg"
+thumbnail: "bigdata.jpeg"
 case_short_title: "Big Data solutions"
 case_title: "Big Data solutions"
 case_subtitle: "Cloud computing"
@@ -10,6 +10,8 @@ case_description: "Developing a big data solution including a dashboard for anal
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
+
+![](/img/bigdata.jepg)
 
 # Description
 The main business question was to get insights in the performance of 35.000 sensors in the electricity grid, generating TBs of time series data.

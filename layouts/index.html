@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
     <head>
         {{ partial "head.html" . }}
@@ -20,6 +19,11 @@
             {{ if .Site.Params.case_studies.enable }}
             {{ partial "case_studies.html" . }}
             {{ end }}
+
+            {{ if .Site.Params.talks.enable }}
+            {{ partial "talks.html" . }}
+            {{ end }}
+
 
             {{ if .Site.Params.contact.enable }}
             {{ partial "contact.html" . }}

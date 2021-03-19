@@ -2,14 +2,16 @@
 weight: 1
 title: "Load Forecasting | Thomas Castelijns"
 nav_heading: "Forcasting Electricity Demand Case Study"
-thumbnail: "load_forecast.jpg"
-case_short_title: "Load Forecast"
+thumbnail: "load_forecast.jpeg"
+case_short_title: "Load forecasting"
 case_title: "Load Forecast"
 case_subtitle: "Congestie Management"
 case_description: "Voorspellen van elektriciteit belasting in het net door meetdata te combineren met weersvoorspellingen."
 case_feature_img: "congestions2.jpg"
 draft: false
 ---
+
+![](/img/load_forecast.jpeg)
 
 # Beschrijving
 In de huidige maatschappij zijn we gewend en afhankelijk van een betrouwbare energie voorziening. Ook zien we een toename in:
