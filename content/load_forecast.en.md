@@ -33,7 +33,7 @@ Therefore, I worked on:
 Also monitoring training experiments and model performance is part of the project. 
 
 The end result is a deployed python package in production that generates predictions on a 15-min interval .  
-These predictions are used by decision makers to offer flexible load in 
+These predictions are used by decision makers to offer flexible load in potential congestion areas. 
 
 ## Responsibilities
 Project lead and stakeholder management.
